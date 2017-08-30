@@ -59,3 +59,4 @@ Everyone should create their own branch to edit this!
 |Tiffany Bui | tvb4sh | Research @ Cognitive Lab |
 | Marco Gomez-Wong | mg3ta | Interned @ Investment Technology Group |
 | James Johnston  | jvj7mv | Worked and took summer classes |
+| Fred Zhao | jz7zb | Went to Camp Bisco |
