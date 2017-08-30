@@ -61,3 +61,4 @@ Everyone should create their own branch to edit this!
 | James Johnston  | jvj7mv | Worked and took summer classes |
 | Fred Zhao | jz7zb | Went to Camp Bisco |
 | Karen Su | ks5mx | Interned @ Noblis |
+| Harrison Nam | hjn3ur | Interned @ Bettermynd |
