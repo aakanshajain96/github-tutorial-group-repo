@@ -58,4 +58,9 @@ Everyone should create their own branch to edit this!
 | Nahom Abraha | nta6ga | Took summer classes at NOVA College and Visited Michigan |
 |Tiffany Bui | tvb4sh | Research @ Cognitive Lab |
 | Marco Gomez-Wong | mg3ta | Interned @ Investment Technology Group |
+| James Johnston  | jvj7mv | Worked and took summer classes |
+| Fred Zhao | jz7zb | Went to Camp Bisco |
+| Karen Su | ks5mx | Interned @ Noblis |
+| Harrison Nam | hjn3ur | Interned @ Bettermynd |
+| Katherine Qian | kq3zm | Interned in China |
 | Benjamin Trans | bvt2nc | Interned @ Erie Insurance |
