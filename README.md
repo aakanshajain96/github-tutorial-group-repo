@@ -1,4 +1,4 @@
-# github-tutorial-group-repo
+﻿# github-tutorial-group-repo
 
 Everyone should create their own branch to edit this!
 
@@ -56,5 +56,6 @@ Everyone should create their own branch to edit this!
 | Atoshem Ghebrehiwet | atg3ds | Interned @ Fannie Mae |
 | Asay Haile | ah5au | Interned @ BAE Systems |
 | Nahom Abraha | nta6ga | Took summer classes at NOVA College and Visited Michigan |
-|Tiffany Bui | tvb4sh | Research @ Cognitive Lab
+|Tiffany Bui | tvb4sh | Research @ Cognitive Lab |
+| Marco Gomez-Wong | mg3ta | Interned @ Investment Technology Group |
 | Benjamin Trans | bvt2nc | Interned @ Erie Insurance |
