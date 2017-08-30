@@ -57,3 +57,4 @@ Everyone should create their own branch to edit this!
 | Asay Haile | ah5au | Interned @ BAE Systems |
 | Nahom Abraha | nta6ga | Took summer classes at NOVA College and Visited Michigan |
 |Tiffany Bui | tvb4sh | Research @ Cognitive Lab
+| Benjamin Trans | bvt2nc | Interned @ Erie Insurance |
