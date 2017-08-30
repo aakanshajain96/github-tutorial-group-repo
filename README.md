@@ -56,4 +56,4 @@ Everyone should create their own branch to edit this!
 | Atoshem Ghebrehiwet | atg3ds | Interned @ Fannie Mae |
 | Asay Haile | ah5au | Interned @ BAE Systems |
 | Nahom Abraha | nta6ga | Took summer classes at NOVA College and Visited Michigan |
-|Tiffany Bui | tvb4sh | Research @ Cognition Lab
+|Tiffany Bui | tvb4sh | Research @ Cognitive Lab
